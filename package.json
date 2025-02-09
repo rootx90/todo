@@ -2,7 +2,7 @@
   "name": "todo-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://<your-github-username>.github.io/todo-list",
+  "homepage": "https://rootx90.github.io/todo",
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
